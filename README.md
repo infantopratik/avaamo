@@ -1,2 +1,2 @@
 # avaamo
-```node script.js```
+Please run ```node script.js``` to execute the script
