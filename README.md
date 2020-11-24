@@ -1,1 +1,2 @@
 # avaamo
+```node script.js```
